@@ -1,0 +1,12 @@
+/node_modules
+
+/coverage
+
+/.next/
+
+/build
+
+.env
+
+*-lock.json
+next-env.d.ts
